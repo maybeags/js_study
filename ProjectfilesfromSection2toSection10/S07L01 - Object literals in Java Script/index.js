@@ -9,3 +9,5 @@ let user = {
 
 
 user.getDetails()
+
+console.log(user['name'])
